@@ -19,8 +19,7 @@ const Hero = () => (
           </span>
         </h1>
         <p className="text-xl text-slate-500 mb-12 leading-relaxed max-w-lg font-medium">
-          Lebih dari sekadar pangkas. Kami menciptakan karakter melalui detail
-          yang presisi. Standar HD grooming untuk pria modern.
+          kata kata kata kata akatalambcbsajhbchasb cjh sdciubasc,jnonaksjx jha
         </p>
         <div className="flex flex-col sm:flex-row gap-6">
           <button className="bg-slate-950 hover:bg-black text-white px-12 py-6 rounded-3xl font-black text-lg transition-all shadow-[0_25px_50px_-12px_rgba(0,0,0,0.3)] flex items-center justify-center gap-3 group">
@@ -28,7 +27,7 @@ const Hero = () => (
             <ChevronRight className="group-hover:translate-x-2 transition-transform duration-300" />
           </button>
           <button className="bg-white hover:bg-slate-50 text-slate-900 border-2 border-slate-200 px-12 py-6 rounded-3xl font-black text-lg transition-all shadow-sm">
-            EXPLORE FEED
+            nyoh delok FEED e sek
           </button>
         </div>
       </div>
@@ -55,7 +54,7 @@ const Hero = () => (
             ))}
           </div>
           <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-            Verified Reviews
+            Pengunjung josjis
           </div>
         </div>
       </div>
