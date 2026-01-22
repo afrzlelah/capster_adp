@@ -40,11 +40,11 @@ const Services = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-24 gap-8">
           <div className="max-w-2xl">
             <h2 className="text-blue-600 font-black uppercase tracking-[0.4em] text-xs mb-6">
-              Expertise
+              Wes expert pokok e
             </h2>
             <h3 className="text-5xl md:text-7xl font-black text-slate-950 leading-[0.9] tracking-tight">
               Potongan Tajam, <br />
-              Gaya Berkelas.
+              Gaya Berkelas anjayyyy.
             </h3>
           </div>
           <p className="text-slate-500 max-w-xs font-medium leading-relaxed">
