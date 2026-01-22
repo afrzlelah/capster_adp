@@ -17,8 +17,7 @@ const Footer = () => (
             </span>
           </div>
           <p className="text-slate-500 font-medium leading-[1.8] mb-10 text-lg">
-            Meningkatkan standar ketampanan pria melalui teknik pangkas rambut
-            kelas dunia dan layanan personal.
+            katakatakatakataatakataj
           </p>
           <div className="flex gap-5">
             <a
@@ -41,20 +40,17 @@ const Footer = () => (
             LAYANAN
           </h4>
           <ul className="space-y-5 text-slate-500 font-bold">
-            {[
-              "Haircut Precision",
-              "Grooming Services",
-              "Premium Styling",
-              "Color Mastery",
-            ].map((item) => (
-              <li
-                key={item}
-                className="hover:text-blue-600 transition-colors cursor-pointer text-sm flex items-center gap-3 group"
-              >
-                <div className="w-1 h-1 bg-slate-200 group-hover:w-4 group-hover:bg-blue-600 transition-all"></div>{" "}
-                {item}
-              </li>
-            ))}
+            {["Layanan 1", "Layanan 2", "Layanan 3", "Layanan 4"].map(
+              (item) => (
+                <li
+                  key={item}
+                  className="hover:text-blue-600 transition-colors cursor-pointer text-sm flex items-center gap-3 group"
+                >
+                  <div className="w-1 h-1 bg-slate-200 group-hover:w-4 group-hover:bg-blue-600 transition-all"></div>{" "}
+                  {item}
+                </li>
+              ),
+            )}
           </ul>
         </div>
 
@@ -79,8 +75,7 @@ const Footer = () => (
             LOKASI STUDIO
           </h4>
           <p className="text-slate-500 font-medium leading-relaxed mb-8">
-            Kunjungi studio kami untuk pengalaman grooming paling tajam di kota
-            Anda.
+            katakatakatakatakatakata.
           </p>
           <button className="w-full flex items-center justify-center gap-3 bg-white border border-slate-200 py-5 rounded-2xl font-black text-slate-950 hover:bg-slate-50 transition-all group">
             OPEN GOOGLE MAPS{" "}
