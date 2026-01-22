@@ -9,13 +9,13 @@ const CTA = () => {
 
           <div className="relative z-10 max-w-3xl mx-auto">
             <h3 className="text-4xl md:text-[80px] font-black mb-10 leading-[0.9] tracking-tighter">
-              Waktunya Tampil Tajam.
+              judul.
             </h3>
             <p className="text-slate-400 mb-14 text-xl md:text-2xl font-medium">
-              Jadilah bagian dari pria modern yang menghargai kualitas detail.
+              lalalallaalalalala.
             </p>
             <button className="bg-white text-slate-950 px-16 py-7 rounded-[2rem] font-black text-xl hover:scale-105 transition-all shadow-2xl active:scale-95 uppercase tracking-tighter">
-              Book Your Chair Now
+              Booking saiki
             </button>
           </div>
         </div>
