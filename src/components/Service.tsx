@@ -3,26 +3,26 @@ import { ChevronRight } from "lucide-react";
 const Services = () => {
   const list = [
     {
-      title: "Precision Cut",
-      desc: "Detail fade & pangkas presisi tinggi.",
+      title: "Potong 2",
+      desc: "deskripsi.",
       price: "20K",
       color: "blue",
     },
     {
-      title: "Grooming Pro",
-      desc: "Haircut + Vitamin + Scalp Massage.",
+      title: "Potong 2",
+      desc: "deskripsi.",
       price: "25K",
       color: "red",
     },
     {
-      title: "Signature Shave",
-      desc: "Cukur jenggot dengan pisau bedah steril.",
+      title: "Model 3",
+      desc: "deskripsi.",
       price: "30K",
       color: "blue",
     },
     {
-      title: "Color Treatment",
-      desc: "Pewarnaan HD sesuai karakter wajah.",
+      title: "model 4",
+      desc: "Descripsi.",
       price: "50K+",
       color: "red",
     },
@@ -49,7 +49,7 @@ const Services = () => {
           </div>
           <p className="text-slate-500 max-w-xs font-medium leading-relaxed">
             Setiap helai rambut Anda adalah prioritas kami. Menggunakan
-            peralatan premium yang selalu steril.
+            peralatan premium yang larang.
           </p>
         </div>
 
